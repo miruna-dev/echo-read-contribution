@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: Remix: EchoRead2.0",
+  "description": "An application that fetches the content of an article from a URL and reads it aloud using AI-powered text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
